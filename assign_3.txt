@@ -1,0 +1,3 @@
+algorithm               scan algo                  c-scan algo            new algo
+
+total movement          236                            382                  183          
